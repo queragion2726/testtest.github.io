@@ -1,7 +1,9 @@
 ---
-layout: archive
+layout: home
 permalink: /
 title: "Latest Posts"
+image:
+  feature: blog-cover(1).jpg
 ---
 
 <div class="tiles">
