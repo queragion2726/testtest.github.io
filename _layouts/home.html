@@ -36,8 +36,8 @@
     {% if page.image %}
     <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image }})">
       <div class="wrap page-lead-content">
-        <h1>{% page.logo %}</h1>
-        <h2>{% page.description %}</h2>
+        <h1>{{% page.logo %}}</h1>
+        <h2>{{% page.description %}}</h2>
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
     {% endif %}
