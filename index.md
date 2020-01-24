@@ -4,7 +4,7 @@ permalink: /
 title: "Latest Posts"
 logo: "asdf"
 description: "fesf"
-image: blog-cover(1).jpg
+image: blog-cover.jpg
 ---
 
 <div class="tiles">
