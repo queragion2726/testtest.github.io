@@ -1,7 +1,6 @@
 ---
 layout: article
 title: TEST
-url: /first-post/
 categories: 
 modified: 2016-06-01T16:28:11-04:00
 tags: [sample]
