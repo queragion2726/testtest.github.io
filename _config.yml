@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "My Site"
+title: "테스트 블로그"
 description: "This is a description of my awesome site."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
-url: http://mono-cake.coffee/jekyll-theme-skinny-bones
+locale: kr
+url: http://자기아이디.github.io
 feed:
   path: atom.xml
 
