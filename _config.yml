@@ -3,7 +3,7 @@
 title: "tt"
 description: "This is a description of my awesome site."
 logo: # 120x120 px default image used for Twitter summary card
-teaser: blog-cover(1).jpg
+teaser: blog-cover.jpg
 locale: kr
 url: https://queragion2726.github.io/testtest.github.io/
 feed:
