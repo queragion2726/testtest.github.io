@@ -1,7 +1,7 @@
 ---
 layout: article
 title: TEST
-categories: 
+categories: TEST
 modified: 2016-06-01T16:28:11-04:00
 tags: [sample, test]
 comments: true
